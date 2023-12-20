@@ -39,14 +39,11 @@
 ### ●	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the process to be selected.
 
 ## OUTPUT:
-![image](https://github.com/pochireddyp/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/150232043/919f20a8-0288-46c2-b616-b32d3ffa120b)
-![image](https://github.com/pochireddyp/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/150232043/7a1e4468-3250-43e4-886a-7379ea42a06e)
-![image](https://github.com/pochireddyp/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/150232043/8ea12c6b-4ca6-44f8-bb5e-dc94185d9a0b)
-![image](https://github.com/pochireddyp/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/150232043/286b760b-39d2-4128-bdcb-05074e350a1d)
-![image](https://github.com/pochireddyp/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/150232043/5c6382ce-28e4-4970-beb7-5aed7f3916a7)
-
-## Output:
-![image](https://github.com/pochireddyp/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/150232043/525e7688-ef98-479d-b0d8-adaaf63220dd)
+![image](https://github.com/pochireddyp/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/150232043/7de68b56-1e6d-463a-8524-a5d294d8f741)
+![image](https://github.com/pochireddyp/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/150232043/b1cbcf86-eba2-49d2-941c-30f6b197575f)
+![image](https://github.com/pochireddyp/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/150232043/20ffa391-2146-46d1-b577-3f895fdcc59b)
+## OUTPUT:
+![image](https://github.com/pochireddyp/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/150232043/c565a72e-8c70-4bca-97e4-74411f844d48)
 
 ### Name:pochi reddy.p
 ### Register Number:23006090
